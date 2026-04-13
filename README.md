@@ -24,7 +24,8 @@ Fat content distribution (Low Fat vs Regular)
 🎛 Interactive Filters – Dynamic exploration across multiple dimensions
 
 🖼 Dashboard Preview
-You can view the dashboard Snapshot below:(https://github.com/Shivamdubey7788/Blinkit-Analysis-Dashboard/blob/main/Snapshot%20of%20Blinkit%20dashboard.png)
+You can view the dashboard Snapshot below:
+![Blinkit Dashboard]()
 
 
 
