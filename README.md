@@ -25,7 +25,7 @@ Fat content distribution (Low Fat vs Regular)
 
 🖼 Dashboard Preview
 You can view the dashboard Snapshot below:
-![Blinkit Dashboard]()
+![Blinkit Dashboard](https://github.com/Shivamdubey7788/Blinkit-Analysis-Dashboard/blob/main/Snapshot%20of%20Blinkit%20dashboard.png)
 
 
 
