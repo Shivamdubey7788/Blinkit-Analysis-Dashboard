@@ -1,54 +1,96 @@
-📊 Blinkit Sales Analysis Dashboard (Power BI)
+ 📊 Blinkit Sales Analysis Dashboard (Power BI)
 
-📌 Project Overview
-This project presents an interactive Power BI dashboard analyzing sales performance for Blinkit – India’s Last Minute App.
-The dashboard provides deep insights into sales trends, outlet performance, product categories, and customer behavior to support data-driven decision-making.
+ 📌 Project Overview
 
-🎯 Objectives
-Analyze total sales, average sales, and item distribution
-Understand outlet performance across different tiers and sizes
-Evaluate customer ratings and product visibility
-Identify top-performing product categories
-Examine sales trends over time
+This project presents an **interactive sales analysis dashboard** for **Blinkit**, designed using Power BI.
+The dashboard provides comprehensive insights into **sales performance, outlet distribution, and product trends**, enabling better business decision-making through data visualization.
 
-📊 Key Features
-💰 KPI Metrics – Total Sales ($1M), Avg Sales, No. of Items, Avg Rating
-📈 Trend Analysis – Outlet establishment growth over years
-🏪 Outlet Insights
-Sales by outlet size (Small, Medium, High)
-Sales by outlet location (Tier 1, Tier 2, Tier 3)
-🍎 Product Analysis
-Sales by item type (Fruits, Snacks, Household, Dairy, etc.)
-Fat content distribution (Low Fat vs Regular)
-📅 Performance Breakdown – Sales across outlet types
-🎛 Interactive Filters – Dynamic exploration across multiple dimensions
+---
 
-🖼 Dashboard Preview
+ 🎯 Objectives
 
-You can view the dashboard Snapshot below:
-![Blinkit Dashboard](https://github.com/Shivamdubey7788/Blinkit-Analysis-Dashboard/blob/main/Snapshot%20of%20Blinkit%20dashboard.png)
+* Analyze **overall sales performance and key KPIs**
+* Understand **outlet distribution by size and location**
+* Identify **top-performing product categories**
+* Evaluate **customer satisfaction through ratings**
+* Track **sales trends over time**
+
+---
+
+ 📊 Key Metrics
+
+* 💰 **Total Sales:** $1M+
+* 📦 **Number of Items:** 8,523
+* 📈 **Average Sales:** $141
+* ⭐ **Average Rating:** 3.9
+
+---
+
+ 📊 Dashboard Features
+
+ 📈 Sales Trend Analysis
+
+* Visualizes **outlet establishment growth over time**
+* Helps identify **peak sales years and trends**
+
+ 🏪 Outlet Analysis
+
+* **Outlet Size:** Small, Medium, High contribution to total sales
+* **Outlet Location:** Tier 1, Tier 2, Tier 3 comparison
+* Tier 3 outlets generate the **highest revenue share**
+
+ 🥗 Product & Category Insights
+
+* Sales breakdown by **item types** (Fruits, Snacks, Household, Dairy, etc.)
+* **Top Categories:** Fruits, Snacks, and Household items
+* Analysis of **Low Fat vs Regular products**
+
+ ⭐ Customer & Product Performance
+
+* Average rating analysis (~3.9–4)
+* Item visibility impact on sales
+
+ 🧾 Outlet Type Performance
+
+* Comparison across:
+  * Supermarket Type 1, 2, 3
+  * Grocery Stores
+* Metrics include **total sales, number of items, ratings, and visibility**
+
+ 🎛 Interactive Capabilities
+
+* Dynamic filtering for deeper analysis
+* Drill-down features for better insights
+
+---
+
+ 🖼 Dashboard Preview
+
+![Blinkit Dashboard]()
+
+---
+
+ 🛠 Tools & Technologies Used
+
+* **Microsoft Power BI**
+* Data Analysis
+* Data Visualization
+
+---
+
+ 📬 Key Insights
+
+* 🏆 Tier 3 outlets contribute the **highest sales**
+* 📊 Medium-sized outlets dominate overall performance
+* 🍎 Fruits and Snacks are **top-selling categories**
+* ⭐ Customer ratings remain consistently high (~4)
+* 🏪 Supermarket Type 1 has the **largest item count**
+
+---
+
+ 📬 Feedback
+
+Feel free to share feedback or suggestions to improve this project!
 
 
 
-🛠 Tools & Technologies Used
-Microsoft Power BI
-Data Analysis
-Data Visualization
-
-📁 Project Files
-Blinkit Dashboard.pbix → Power BI dashboard file
-Dashboard Screenshot → Dashboard preview image
-
-🚀 How to Use
-Download the .pbix file
-Open it in Power BI Desktop
-Use filters and visuals to explore insights
-
-📬 Insights Gained
-Tier 3 outlets contribute the highest sales
-Medium-sized outlets dominate revenue share
-Fruits, Snacks, and Household items are top-selling categories
-Consistent customer ratings (~4) indicate stable satisfaction
-
-📬 Feedback
-Feel free to share feedback or suggestions to improve the dashboard!
