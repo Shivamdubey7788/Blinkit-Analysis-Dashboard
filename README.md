@@ -66,7 +66,7 @@ The dashboard provides comprehensive insights into **sales performance, outlet d
 
  🖼 Dashboard Preview
 
-![Blinkit Dashboard]()
+![Blinkit Dashboard](https://github.com/Shivamdubey7788/Blinkit-Analysis-Dashboard/blob/main/Snapshot%20of%20Blinkit%20dashboard.png)
 
 ---
 
